@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["sharp-cli", "sharp-core", "sharp-fec", "sharp-ice", "sharp-tests", "sharp-transport"]
